@@ -1,18 +1,27 @@
 # Project Ideas 
 
+## WHEN should we read this
+
+We can approach the following project ideas once we got a solid understanding of:
+
+- UI basics (HTML / CSS)
+- DOM manipulation
+- NodeJS basics
+- Asynchronous JavaScript (Promises, Async / Await, Callbacks, Fetch)
+
 ## Types of applications
 
-    - Blog / Newspage
-    - Social Media page
-    - Commercial / Shop
-    - Browser games
-    - Live-Data services (e.g. stocks, sports ticker, chat)
+- Blog / Newspage
+- Social Media page
+- Commercial / Shop
+- Browser games
+- Live-Data services (e.g. stocks, sports ticker, chat)
 
 ### Device specific applications
 
-    - Web App
-    - Mobile App
-    - Desktop App
+- Web App
+- Mobile App
+- Desktop App
 
 ## Project suggestions - initial list
 
@@ -46,22 +55,24 @@
 ## Entry level (1-3 days)
 
 ### Rock paper scissors with a browser UI
-    - In UI you pick a name and select a move
-    - The opponents move will be a random move
-    - Write the function to check who won
-    - Display the winner and offer a new game
-    - Bonus: Store the game result in the browser
-    => research how to use local storage
+
+- In UI you pick a name and select a move
+- The opponents move will be a random move
+- Write the function to check who won
+- Display the winner and offer a new game
+- Bonus: Store the game result in the browser
+=> research how to use local storage
 
 ### Terminal games (backend only)
    
 Research (foundation for all games): 
-    - terminology "Socket" and "TCP"
-    - the net package of node.js
-    - how to open a port / create a socket
-    - how to listen to incoming calls
-    - how to listen to keyboard events
-    - how to write messages to a socket
+
+- terminology "Socket" and "TCP"
+- the net package of node.js
+- how to open a port / create a socket
+- how to listen to incoming calls
+- how to listen to keyboard events
+- how to write messages to a socket
 
 #### Rock paper scissors
 
@@ -90,7 +101,8 @@ Research (foundation for all games):
 
 #### Flappy bird
 
-=> showcase: https://flappybird.io/
+Demo: https://flappybird.io/
+
 - Create a browser game with animations
 - Choose graphics from pixabay, unsplash or other free image resources
 - On mouse click or hitting the spacebar key: Move up the bird
@@ -109,7 +121,8 @@ Research (foundation for all games):
 
 #### Minesweeper
             
-=> showcase: http://minesweeperonline.com/
+Demo: http://minesweeperonline.com/
+
 - Build a UI – build an HTML matrix with 10 x 10 squares (might be an array :))
     - Randomly place 10 bombs inside this matrix (the bombs are hidden)
     - suggestion: use HTML data-attributes to store bomb status in the button
@@ -162,6 +175,7 @@ For all projects in this category:
 
 
 ---
+
 ### Social Media
 
 #### Discussion forum
